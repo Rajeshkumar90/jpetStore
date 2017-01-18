@@ -42,9 +42,10 @@
           <name>maven-releases</name>
           <url>http://10.242.138.114:8082/repository/maven-releases</url>
      </repository>
-	     <snapshotRepository>
+	 <snapshotRepository>
          <id>deployment-1</id>
          <name>maven-snapshots</name>
+	 <uniqueVersion>false</uniqueVersion>
          <url>http://10.242.138.114:8082/repository/maven-snapshots</url>
       </snapshotRepository>
   </distributionManagement>
