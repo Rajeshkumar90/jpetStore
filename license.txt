@@ -12,4 +12,4 @@
    See the License for the specific language governing permissions and
    limitations under the License. Hanover testing NOW branch testing.. final testing
    Testing.
-   Testing for demo
+   Testing for demo HANOVER use case
