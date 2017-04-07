@@ -1,0 +1,5 @@
+---
+applications:
+- name: cf-jPetStore
+  memory: 700M
+  instances: 2
